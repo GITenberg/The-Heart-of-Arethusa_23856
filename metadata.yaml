@@ -1,0 +1,32 @@
+_repo: The-Heart-of-Arethusa_23856
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Read, F. W. (Frederick William)
+    alias: Read, Frederick William
+    birthdate: 1863
+    gutenberg_agent_id: '32616'
+    url: http://www.gutenberg.org/2009/agents/32616
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Fox, Frances Barton
+    birthdate: 1887
+    gutenberg_agent_id: '26089'
+    url: http://www.gutenberg.org/2009/agents/26089
+description: ''
+gutenberg_issued: '2007-12-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23856'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Young women -- Fiction'
+- !lcc 'PS'
+title: The Heart of Arethusa
+url: http://www.gutenberg.org/ebooks/23856
